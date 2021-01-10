@@ -1,2 +1,2 @@
-# Class48
-Capstone Class: Publishing an App on Playstore
+# p5.play-boilerplate
+Boiler plate for p5.play
